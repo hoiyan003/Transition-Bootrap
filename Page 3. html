@@ -1,0 +1,68 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css" />
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css" />
+  
+
+</head>
+<body>
+    <div class="holder cover">
+      <header>
+        <div class="jumbotron">
+          <h1 class="text-white">  </h1>
+        </div>
+         <ul>
+        <li>
+          <a href="home.html">Home</a>
+        </li>
+        <li>
+          <a href="gallery.html">Gallery</a>
+        </li>
+        <li>
+          <a href="aboutus.html">About</a>
+        </li>
+      </ul>
+      </header>
+      
+      <div>
+        <h1 class="text-white">
+          What is Coding?
+        </h1>
+      </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h3>
+        Simply put coding is used for communicating with computers. People use coding to give computers and other machines instructions on what actions to perform. Further, we use it to program the websites, apps, and other technologies we interact with every day.
+        </h3>
+        <br>
+          <img src="https://content.techgig.com/thumb/msid-78474367,width-860,resizemode-4/4-Expert-tips-to-up-your-game-as-a-programmer.jpg?58220"  style="width: 500px; height: 350px;">
+   <button type="button" >
+        <a href="https://learn.onemonth.com/what-is-coding/">Click here for more information</a>
+   </button>
+    
+    
+    <footer>
+      <div class="jumbotron">
+        <p class="text-center">&copy; 2020 Hoi Yan Chu</p>
+         <ul>
+        <li>
+          <a href="home.html">Home</a>
+        </li>
+        <li>
+          <a href="gallery.html">Gallery</a>
+        </li>
+        <li>
+          <a href="aboutus.html">About</a>
+        </li>
+      </ul>
+      </div>
+    </footer>
+  </body>
+</html>
